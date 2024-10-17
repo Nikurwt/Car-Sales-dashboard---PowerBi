@@ -22,7 +22,8 @@ This project aims to develop a comprehensive Power BI dashboard that provides re
 
 #  key features 
 
-**Sales Overview:**
+
+### Sales Overview:
 
 Year-to-Date (YTD) Total Sales
 
@@ -32,7 +33,8 @@ Year-over-Year (YOY) Growth in Total Sales
 
 Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales   
 
-**Average Price Analysis:**
+
+### Average Price Analysis:
 
 YTD Average Price
 
@@ -42,7 +44,8 @@ YOY Growth in Average Price
 
 Difference between YTD Average Price and PTYD Average Price
 
-**Cars Sold Metrics:**
+
+### Cars Sold Metrics:
 
 YTD Cars Sold
 
@@ -50,9 +53,10 @@ MTD Cars Sold
 
 YOY Growth in Cars Sold
 
-Difference between YTD Cars Sold and PTYD Cars Sold   
+Difference between YTD Cars Sold and PTYD Cars Sold 
 
-**Visualizations:**
+
+### Visualizations:
 
 Weekly Trend of YTD Sales (Line Chart)
 
