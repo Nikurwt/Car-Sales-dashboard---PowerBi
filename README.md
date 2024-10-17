@@ -6,6 +6,9 @@ This project is not my original work. It was adapted from a project tutorial fou
 
 I have used this project for educational purposes, to enhance my understanding of [Powerbi dashboard and advance Dax]. All credit for the original concept and code goes to the original creator. 
 
+## Dashboard 
+![Car sales dashboard](https://github.com/Nikurwt/Coffee-Sales-/blob/main/Screenshot%202024-10-12%20102711.png) 
+
 # Project Overview:
 
 This project aims to develop a comprehensive Power BI dashboard that provides real-time insights into key performance indicators (KPIs) related to car sales. By visualizing critical metrics and trends, the dashboard will empower stakeholders to make informed decisions, monitor sales performance, and identify opportunities for growth.
