@@ -1,4 +1,4 @@
-# Car-Sales-dashboard---PowerBi
+# Car Sales dashboard - PowerBi
 
 # Disclaimer
 
