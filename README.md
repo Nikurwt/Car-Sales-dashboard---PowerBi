@@ -1,7 +1,7 @@
 # CAR SALES DASHBOARD - Power Bi
 
 
-## Dashboard 
+# Dashboard 
 ![Car sales dashboard](https://github.com/Nikurwt/Car-Sales-dashboard---PowerBi/blob/main/Screenshot%202024-10-17%20204249.png) 
 
 # Project Overview:
