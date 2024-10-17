@@ -7,7 +7,7 @@ This project is not my original work. It was adapted from a project tutorial fou
 I have used this project for educational purposes, to enhance my understanding of [Powerbi dashboard and advance Dax]. All credit for the original concept and code goes to the original creator. 
 
 ## Dashboard 
-![Car sales dashboard](https://github.com/Nikurwt/Coffee-Sales-/blob/main/Screenshot%202024-10-12%20102711.png) 
+![Car sales dashboard](https://github.com/Nikurwt/Car-Sales-dashboard---PowerBi/blob/main/Screenshot%202024-10-17%20204249.png) 
 
 # Project Overview:
 
