@@ -6,8 +6,7 @@
 ![Car sales dashboard](https://github.com/Nikurwt/Car-Sales-dashboard---PowerBi/blob/main/Screenshot%202024-10-17%20204249.png) 
 
 # Disclaimer
-This project is not my original work. It was adapted from a project tutorial found on YouTube, created by [Data Tutorials]. You can view the original project here: [(https://youtu.be/aK7M0gAR_sg?si=vc69q3lqs2LYyM92)].
-
+This project is not my original work. 
 I have used this project for educational purposes, to enhance my understanding of Advancve Dax functions. All credit for the original concept and code goes to the original creator. 
 
 # Project Overview:
